@@ -42,18 +42,18 @@ Si estas en Intellij Idea y lo queres ejecutar por terminal,debes de ejecutar el
 Ahora si lo queremos correr desde el proyecto,debemos desde el archivo MainApp.java: 
 - Utilizar Mayus + f10.
 - Apretar el boton triangular verde que tiene el siguiente estilo:
-![Ejemplo de boton de ejecucion](/recursos_readme/Ejecución_Triangulo_Verde.png)
+![Ejemplo de boton de ejecucion](/recursos_readme./recursos_readme/Ejecución_Triangulo_Verde.png)
 
 Si queremos ejecutar con maven debemos seguir los siguientes pasos:
 - En la barra de herramientas clickear el logo de Maven:
-![Ejemplo Logo Maven](/recursos_readme/Logo%20Maven.png)
+![Ejemplo Logo Maven](/recursos_readme./recursos_readme/Logo_Maven.png)
 - Desplegamos carpetas en el siguiente orden:
   - Tp1
     - Plugins
       - javafx
 
 Damos click dos veces en javafx:run
-![Ejemplo ejecución con maven](/recursos_readme/Ejecución%20con%20Maven.png)
+![Ejemplo ejecución con maven](/recursos_readme./recursos_readme/Ejecución_con_Maven.png)
 ### INSTRUCCIONES DE JUEGO (COMANDOS)
 - En el menu nos movemos con las flechas y seleccionamos la opcion con enter
 

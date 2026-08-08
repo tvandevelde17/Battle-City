@@ -1,42 +1,42 @@
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/eventos/TanqueDestruidoManager.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/vista/JugadorView.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/vista/EntidadView.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/controlador/RenderNivel.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/vista/BalaView.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/modelo/entidades/Bloque.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/modelo/util/Direccion.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/modelo/entidades/Entidad.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/controlador/ControladorMenu.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/eventos/DestruccionListener.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/modelo/entidades/PowerUp.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/modelo/juego/Juego.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/constantes/Constantes.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/modelo/mapa/SpawnTarget.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/modelo/util/TipoEnemigo.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/modelo/entidades/Jugador.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/controlador/ControladorVentana.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/controlador/IniciarJuego.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/modelo/mapa/Mapa.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/modelo/entidades/Base.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/modelo/util/ModoJuego.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/controlador/ControladorJuego.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/vista/EnemigoView.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/vista/BaseView.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/modelo/niveles/Nivel.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/modelo/util/Movible.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/modelo/entidades/Tanque.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/eventos/JuegoTerminadoEvento.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/controlador/LevelLoader.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/modelo/util/TipoBloque.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/eventos/EventoDestruccion.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/modelo/entidades/Enemigo.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/vista/BloqueView.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/modelo/util/TipoPowerUp.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/modelo/entidades/Bala.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/eventos/EventManager.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/modelo/mapa/Spawner.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/controlador/JuegoTerminadoController.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/eventos/PowerUpManager.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/eventos/RespawnManager.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/vista/PowerUpView.java
-/home/facundo/Escritorio/LinuxMint22/FACULTAD FIUBA/INGENIERIA INFORMATICA/PARADIGMAS DE LA PROGRAMACION ESSAYA- 2DO CUATRIMESTRE 2025/TP1/BattleCity/src/main/java/app/MainApp.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/modelo/util/TipoPowerUp.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/controlador/ControladorVentana.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/vista/BalaView.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/eventos/DestruccionListener.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/modelo/entidades/Enemigo.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/controlador/ControladorMenu.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/controlador/IniciarJuego.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/modelo/entidades/Base.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/modelo/mapa/Spawner.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/modelo/util/TipoBloque.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/modelo/entidades/Tanque.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/app/MainApp.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/eventos/EventoDestruccion.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/vista/PowerUpView.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/controlador/LevelLoader.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/eventos/TanqueDestruidoManager.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/constantes/Constantes.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/vista/EnemigoView.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/modelo/util/ModoJuego.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/controlador/ControladorJuego.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/eventos/PowerUpManager.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/modelo/entidades/PowerUp.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/modelo/mapa/Mapa.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/modelo/util/TipoEnemigo.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/modelo/entidades/Bala.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/modelo/entidades/Jugador.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/vista/EntidadView.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/modelo/entidades/Entidad.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/modelo/niveles/Nivel.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/controlador/JuegoTerminadoController.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/eventos/RespawnManager.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/modelo/entidades/Bloque.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/eventos/JuegoTerminadoEvento.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/modelo/juego/Juego.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/modelo/mapa/SpawnTarget.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/controlador/RenderNivel.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/modelo/util/Direccion.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/modelo/util/Movible.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/eventos/EventManager.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/vista/BloqueView.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/vista/JugadorView.java
+/home/tomi/Escritorio/BATTLECITY/BattleCity/src/main/java/vista/BaseView.java
