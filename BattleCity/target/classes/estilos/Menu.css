@@ -1,0 +1,9 @@
+.VentanaMenu{
+    -fx-background-color: #000000;
+}
+
+.MenuItem{
+    -fx-font-family:'Press Start 2P';
+    -fx-font-size: 39;
+    -fx-text-fill: #ffffff;
+}

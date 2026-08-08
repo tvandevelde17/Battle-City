@@ -1,0 +1,182 @@
+<?xml version="1.0" ?>
+<levelConfig gameName="BattleCity" version="1.0" levelIndex="3" name="Level 3">
+    <level width="800" height="600" cols="40" rows="30">
+        <players>
+            <player id="player1" x="170" y="230"/>
+            <player id="player2" x="330" y="230"/>
+        </players>
+        <enemies>
+            <enemy id="enemy0_1" type="powerfulEnemy" x="30" y="10"/>
+            <enemy id="enemy0_4" type="powerfulEnemy" x="90" y="10"/>
+            <enemy id="enemy0_7" type="regularEnemy" x="150" y="10"/>
+            <enemy id="enemy0_10" type="heavyEnemy" x="210" y="10"/>
+            <enemy id="enemy0_14" type="heavyEnemy" x="290" y="10"/>
+            <enemy id="enemy2_1" type="fastEnemy" x="30" y="50"/>
+            <enemy id="enemy2_4" type="fastEnemy" x="90" y="50"/>
+            <enemy id="enemy2_7" type="regularEnemy" x="150" y="50"/>
+            <enemy id="enemy2_10" type="regularEnemy" x="210" y="50"/>
+            <enemy id="enemy2_14" type="heavyEnemy" x="290" y="50"/>
+        </enemies>
+        <staticObjects>
+            <staticObject type="brickBlock" x="10" y="90"/>
+            <staticObject type="brickBlock" x="30" y="90"/>
+            <staticObject type="brickBlock" x="50" y="90"/>
+            <staticObject type="brickBlock" x="70" y="90"/>
+            <staticObject type="brickBlock" x="90" y="90"/>
+            <staticObject type="brickBlock" x="110" y="90"/>
+            <staticObject type="brickBlock" x="130" y="90"/>
+            <staticObject type="brickBlock" x="150" y="90"/>
+            <staticObject type="brickBlock" x="170" y="90"/>
+            <staticObject type="brickBlock" x="190" y="90"/>
+            <staticObject type="brickBlock" x="210" y="90"/>
+            <staticObject type="brickBlock" x="230" y="90"/>
+            <staticObject type="brickBlock" x="250" y="90"/>
+            <staticObject type="brickBlock" x="270" y="90"/>
+            <staticObject type="brickBlock" x="290" y="90"/>
+            <staticObject type="brickBlock" x="310" y="90"/>
+            <staticObject type="brickBlock" x="330" y="90"/>
+            <staticObject type="brickBlock" x="350" y="90"/>
+            <staticObject type="brickBlock" x="370" y="90"/>
+            <staticObject type="brickBlock" x="390" y="90"/>
+            <staticObject type="brickBlock" x="410" y="90"/>
+            <staticObject type="brickBlock" x="430" y="90"/>
+            <staticObject type="brickBlock" x="450" y="90"/>
+            <staticObject type="brickBlock" x="470" y="90"/>
+            <staticObject type="brickBlock" x="490" y="90"/>
+            <staticObject type="brickBlock" x="510" y="90"/>
+            <staticObject type="brickBlock" x="530" y="90"/>
+            <staticObject type="brickBlock" x="550" y="90"/>
+            <staticObject type="brickBlock" x="570" y="90"/>
+            <staticObject type="brickBlock" x="590" y="90"/>
+            <staticObject type="brickBlock" x="610" y="90"/>
+            <staticObject type="brickBlock" x="630" y="90"/>
+            <staticObject type="brickBlock" x="650" y="90"/>
+            <staticObject type="brickBlock" x="650" y="110"/>
+            <staticObject type="brickBlock" x="670" y="110"/>
+            <staticObject type="brickBlock" x="670" y="130"/>
+            <staticObject type="brickBlock" x="670" y="150"/>
+            <staticObject type="brickBlock" x="670" y="170"/>
+            <staticObject type="brickBlock" x="130" y="190"/>
+            <staticObject type="brickBlock" x="150" y="190"/>
+            <staticObject type="brickBlock" x="170" y="190"/>
+            <staticObject type="brickBlock" x="190" y="190"/>
+            <staticObject type="brickBlock" x="210" y="190"/>
+            <staticObject type="brickBlock" x="290" y="190"/>
+            <staticObject type="brickBlock" x="310" y="190"/>
+            <staticObject type="brickBlock" x="330" y="190"/>
+            <staticObject type="brickBlock" x="350" y="190"/>
+            <staticObject type="brickBlock" x="370" y="190"/>
+            <staticObject type="brickBlock" x="670" y="190"/>
+            <staticObject type="brickBlock" x="90" y="210"/>
+            <staticObject type="brickBlock" x="110" y="210"/>
+            <staticObject type="brickBlock" x="130" y="210"/>
+            <staticObject type="steelBlock" x="150" y="210"/>
+            <staticObject type="steelBlock" x="170" y="210"/>
+            <staticObject type="steelBlock" x="190" y="210"/>
+            <staticObject type="brickBlock" x="210" y="210"/>
+            <staticObject type="brickBlock" x="230" y="210"/>
+            <staticObject type="brickBlock" x="250" y="210"/>
+            <staticObject type="brickBlock" x="270" y="210"/>
+            <staticObject type="brickBlock" x="290" y="210"/>
+            <staticObject type="steelBlock" x="310" y="210"/>
+            <staticObject type="steelBlock" x="330" y="210"/>
+            <staticObject type="steelBlock" x="350" y="210"/>
+            <staticObject type="brickBlock" x="370" y="210"/>
+            <staticObject type="brickBlock" x="390" y="210"/>
+            <staticObject type="brickBlock" x="410" y="210"/>
+            <staticObject type="steelBlock" x="530" y="210"/>
+            <staticObject type="brickBlock" x="670" y="210"/>
+            <staticObject type="steelBlock" x="150" y="230"/>
+            <staticObject type="steelBlock" x="190" y="230"/>
+            <staticObject type="steelBlock" x="310" y="230"/>
+            <staticObject type="steelBlock" x="350" y="230"/>
+            <staticObject type="steelBlock" x="530" y="230"/>
+            <staticObject type="brickBlock" x="670" y="230"/>
+            <staticObject type="steelBlock" x="150" y="250"/>
+            <staticObject type="steelBlock" x="190" y="250"/>
+            <staticObject type="steelBlock" x="310" y="250"/>
+            <staticObject type="steelBlock" x="350" y="250"/>
+            <staticObject type="steelBlock" x="530" y="250"/>
+            <staticObject type="brickBlock" x="670" y="250"/>
+            <staticObject type="steelBlock" x="530" y="270"/>
+            <staticObject type="brickBlock" x="670" y="270"/>
+            <staticObject type="steelBlock" x="530" y="290"/>
+            <staticObject type="brickBlock" x="670" y="290"/>
+            <staticObject type="steelBlock" x="530" y="310"/>
+            <staticObject type="brickBlock" x="670" y="310"/>
+            <staticObject type="steelBlock" x="530" y="330"/>
+            <staticObject type="brickBlock" x="670" y="330"/>
+            <staticObject type="steelBlock" x="530" y="350"/>
+            <staticObject type="brickBlock" x="670" y="350"/>
+            <staticObject type="steelBlock" x="530" y="370"/>
+            <staticObject type="brickBlock" x="670" y="370"/>
+            <staticObject type="steelBlock" x="530" y="390"/>
+            <staticObject type="brickBlock" x="670" y="390"/>
+            <staticObject type="steelBlock" x="530" y="410"/>
+            <staticObject type="brickBlock" x="670" y="410"/>
+            <staticObject type="steelBlock" x="530" y="430"/>
+            <staticObject type="brickBlock" x="670" y="430"/>
+            <staticObject type="steelBlock" x="530" y="450"/>
+            <staticObject type="brickBlock" x="670" y="450"/>
+            <staticObject type="forestBlock" x="10" y="470"/>
+            <staticObject type="forestBlock" x="30" y="470"/>
+            <staticObject type="forestBlock" x="50" y="470"/>
+            <staticObject type="forestBlock" x="70" y="470"/>
+            <staticObject type="forestBlock" x="90" y="470"/>
+            <staticObject type="forestBlock" x="110" y="470"/>
+            <staticObject type="forestBlock" x="130" y="470"/>
+            <staticObject type="steelBlock" x="530" y="470"/>
+            <staticObject type="brickBlock" x="670" y="470"/>
+            <staticObject type="forestBlock" x="10" y="490"/>
+            <staticObject type="waterBlock" x="30" y="490"/>
+            <staticObject type="waterBlock" x="50" y="490"/>
+            <staticObject type="waterBlock" x="70" y="490"/>
+            <staticObject type="waterBlock" x="90" y="490"/>
+            <staticObject type="waterBlock" x="110" y="490"/>
+            <staticObject type="forestBlock" x="130" y="490"/>
+            <staticObject type="steelBlock" x="530" y="490"/>
+            <staticObject type="brickBlock" x="670" y="490"/>
+            <staticObject type="forestBlock" x="10" y="510"/>
+            <staticObject type="waterBlock" x="30" y="510"/>
+            <staticObject type="brickBlock" x="50" y="510"/>
+            <staticObject type="brickBlock" x="70" y="510"/>
+            <staticObject type="brickBlock" x="90" y="510"/>
+            <staticObject type="waterBlock" x="110" y="510"/>
+            <staticObject type="forestBlock" x="130" y="510"/>
+            <staticObject type="steelBlock" x="530" y="510"/>
+            <staticObject type="brickBlock" x="670" y="510"/>
+            <staticObject type="forestBlock" x="10" y="530"/>
+            <staticObject type="waterBlock" x="30" y="530"/>
+            <staticObject type="brickBlock" x="50" y="530"/>
+            <staticObject type="baseBlock" x="70" y="530"/>
+            <staticObject type="brickBlock" x="90" y="530"/>
+            <staticObject type="waterBlock" x="110" y="530"/>
+            <staticObject type="forestBlock" x="130" y="530"/>
+            <staticObject type="steelBlock" x="530" y="530"/>
+            <staticObject type="forestBlock" x="10" y="550"/>
+            <staticObject type="waterBlock" x="30" y="550"/>
+            <staticObject type="brickBlock" x="50" y="550"/>
+            <staticObject type="brickBlock" x="70" y="550"/>
+            <staticObject type="brickBlock" x="90" y="550"/>
+            <staticObject type="waterBlock" x="110" y="550"/>
+            <staticObject type="forestBlock" x="130" y="550"/>
+            <staticObject type="steelBlock" x="530" y="550"/>
+            <staticObject type="forestBlock" x="10" y="570"/>
+            <staticObject type="waterBlock" x="30" y="570"/>
+            <staticObject type="waterBlock" x="50" y="570"/>
+            <staticObject type="waterBlock" x="70" y="570"/>
+            <staticObject type="waterBlock" x="90" y="570"/>
+            <staticObject type="waterBlock" x="110" y="570"/>
+            <staticObject type="forestBlock" x="130" y="570"/>
+            <staticObject type="steelBlock" x="530" y="570"/>
+            <staticObject type="forestBlock" x="10" y="590"/>
+            <staticObject type="forestBlock" x="30" y="590"/>
+            <staticObject type="forestBlock" x="50" y="590"/>
+            <staticObject type="forestBlock" x="70" y="590"/>
+            <staticObject type="forestBlock" x="90" y="590"/>
+            <staticObject type="forestBlock" x="110" y="590"/>
+            <staticObject type="forestBlock" x="130" y="590"/>
+            <staticObject type="steelBlock" x="530" y="590"/>
+        </staticObjects>
+    </level>
+</levelConfig>

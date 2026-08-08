@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.canvas.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.*?>
+
+<StackPane xmlns="http://javafx.com/javafx/17.0.12"
+           xmlns:fx="http://javafx.com/fxml/1"
+           fx:controller="controlador.ControladorJuego"
+           prefWidth="800" prefHeight="600">
+    <AnchorPane prefWidth="800" prefHeight="600">
+        <AnchorPane fx:id="NivelContainer" prefWidth="800" prefHeight="600" layoutX="0" layoutY="0" />
+        <AnchorPane fx:id="JuegoTerminadoContainer" visible="false" />
+    </AnchorPane>
+
+</StackPane>
